@@ -1,5 +1,5 @@
 
-#******NYC Airbnb and Netflix Data Analysis******
+####******NYC Airbnb and Netflix Data Analysis******
 
 
 
@@ -19,31 +19,8 @@ This project performs in-depth analysis on two major datasets:
 
 We employ **Python** for data cleaning, exploration, and basic analysis, while **Tableau** is used for advanced visualizations, particularly with the Netflix dataset.
 
----
-
-## **Table of Contents**
-
-
-- [Project Overview](#project-overview)
-
-- [Objectives](#objectives)
-
-- [Data Sources](#data-sources)
-
-- [Installation](#installation)
-
-- [Project Structure](#project-structure)
-
-- [Usage](#usage)
-
-- [Visualizations](#visualizations)
-
-- [Contributing](#contributing)
-
-- [License](#license)
 
 ------------------------------------------------------------------------------
-
 
 
 ## **Objectives**
